@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/MenuNowPlaying"
+          android:icon="@android:drawable/ic_menu_gallery"
+          app:showAsAction="always"
+          android:title="Now Playing"/>
+
+    <item android:id="@+id/MenuPopular"
+          android:icon="@android:drawable/ic_menu_gallery"
+          app:showAsAction="always"
+          android:title="Popular"/>
+
+    <item android:id="@+id/MenuTopRated"
+          android:icon="@android:drawable/ic_menu_gallery"
+          app:showAsAction="always"
+          android:title="Top Rated"/>
+
+    <item android:id="@+id/MenuUpcoming"
+          android:icon="@android:drawable/ic_menu_gallery"
+          app:showAsAction="always"
+          android:title="Upcoming"/>
+
+</menu>
